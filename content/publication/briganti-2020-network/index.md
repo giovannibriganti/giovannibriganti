@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Adoption of new guidelines for the management of acute heart failure in the
-  emergency department: An assessment on the quality of practice'
+title: Network structures of symptoms from the Zung Depression Scale
 subtitle: ''
 summary: ''
 authors:
-- Josiane Kalinda Zula
 - Giovanni Briganti
+- Marco Scutari
+- Paul Linkowski
 tags: []
 categories: []
 date: '2020-01-01'
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-05T18:27:23.552854Z'
+publishDate: '2021-01-05T18:27:23.422586Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal of Healthcare Management*'
+publication: '*Psychological Reports*'
 ---
