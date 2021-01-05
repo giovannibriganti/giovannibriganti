@@ -25,7 +25,7 @@ tags:
 - '"skull base"'
 categories: []
 date: '2018-07-01'
-lastmod: 2021-01-05T18:22:29+01:00
+lastmod: 2021-01-05T19:23:13+01:00
 featured: false
 draft: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-05T17:22:29.811111Z'
+publishDate: '2021-01-05T18:23:13.344710Z'
 publication_types:
 - '2'
 abstract: ''

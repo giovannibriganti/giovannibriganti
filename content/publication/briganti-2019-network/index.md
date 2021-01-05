@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Network structures of symptoms from the Zung Depression Scale
+title: Network analysis of Contingencies of Self-Worth Scale in 680 university students
 subtitle: ''
 summary: ''
 authors:
 - Giovanni Briganti
-- Marco Scutari
+- Eiko I Fried
 - Paul Linkowski
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-01-05T18:22:28+01:00
+date: '2019-01-01'
+lastmod: 2021-01-05T19:23:13+01:00
 featured: false
 draft: false
 
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-05T17:22:28.835625Z'
+publishDate: '2021-01-05T18:23:13.165888Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Psychological Reports*'
+publication: '*Psychiatry Research*'
 ---
